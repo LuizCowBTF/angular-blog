@@ -1,0 +1,9 @@
+@media screen and (max-width: 700px) {
+  .container__menu-title > h1 {
+    font-family: 'Segoe UI';
+    font-size: 30px;
+    display: flex;
+    justify-content: center !important;
+  }
+}
+
